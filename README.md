@@ -57,7 +57,7 @@
 
 ###
 
-<p align="left">1. **[AWS VPC Peering and EC2 Instance Connectivity](https://github.com/Diplahane/AWS-VPC-Perring-and-EC2-Instance-Connectivity.git)**<br>   - Established secure VPC peering connection between two AWS VPCs, enabling seamless communication between EC2 instances. Showcased expertise in AWS networking and Linux command-line tools.</p>
+1. **[AWS VPC Peering and EC2 Instance Connectivity](https://github.com/Diplahane/AWS-VPC-Perring-and-EC2-Instance-Connectivity.git)**<br>   - Established secure VPC peering connection between two AWS VPCs, enabling seamless communication between EC2 instances. Showcased expertise in AWS networking and Linux command-line tools.
 
 ###
 
@@ -73,7 +73,7 @@
 
 ###
 
-<p align="left">1. -Python Training Project, from IIT Bombay.<br>2. Java Certification form DataFlair.</p>
+<p align="left"> -Python Training Project, from IIT Bombay.<br>2. Java Certification form DataFlair.</p>
 
 ###
 
