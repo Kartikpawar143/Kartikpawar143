@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Kartikpawar143&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=Kartikpawar143&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=20" height="150" alt="streak graph"  />
 </div>
@@ -57,7 +57,7 @@
 
 ###
 
-1. **[AWS VPC Peering and EC2 Instance Connectivity](https://github.com/Diplahane/AWS-VPC-Perring-and-EC2-Instance-Connectivity.git)**<br>  - Established secure VPC peering connection between two AWS VPCs, enabling seamless communication between EC2 instances. Showcased expertise in AWS networking and Linux command-line tools.
+<p align="left">2. **[AWS VPC Peering and EC2 Instance Connectivity](https://github.com/Diplahane/AWS-VPC-Perring-and-EC2-Instance-Connectivity.git)**<br>   - Established secure VPC peering connection between two AWS VPCs, enabling seamless communication between EC2 instances. Showcased expertise in AWS networking and Linux command-line tools.</p>
 
 ###
 
@@ -65,7 +65,7 @@
 
 ###
 
-<p align="left"> -Bachelor of Engineering, Savitribai Phule Pune University, 2022 - 2026</p>
+<p align="left">Bachelor of Engineering, Savitribai Phule Pune University, 2022 - 2026</p>
 
 ###
 
@@ -73,7 +73,7 @@
 
 ###
 
-<p>-Python Training Project, from IIT Bombay.<br> -Java Certification form DataFlair.</p>
+<p align="left">1. Python Training Project, from IIT Bombay.<br>2. Java Certification form DataFlair.</p>
 
 ###
 
