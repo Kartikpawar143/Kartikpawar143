@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kartikpawar143&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Kartikpawar143&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=20&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikpawar143&radius=20&theme=redical&area=false&order=5&hide_border=true&hide_title=true" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
