@@ -73,7 +73,7 @@
 
 ###
 
-<p align="left"> -Python Training Project, from IIT Bombay.<br>2. Java Certification form DataFlair.</p>
+<p align="left"> -Python Training Project, from IIT Bombay.<br>- Java Certification form DataFlair.</p>
 
 ###
 
