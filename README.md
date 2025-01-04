@@ -53,11 +53,19 @@
 
 ###
 
+<h2 align="left">Projects</h2>
+
+###
+
+<p align="left">1. **[AWS VPC Peering and EC2 Instance Connectivity](https://github.com/Diplahane/AWS-VPC-Perring-and-EC2-Instance-Connectivity.git)**<br>   - Established secure VPC peering connection between two AWS VPCs, enabling seamless communication between EC2 instances. Showcased expertise in AWS networking and Linux command-line tools.</p>
+
+###
+
 <h2 align="left">Education</h2>
 
 ###
 
-<p align="left">Bachelor of Engineering, Savitribai Phule Pune University, 2022 - 2026</p>
+<p align="left"> -Bachelor of Engineering, Savitribai Phule Pune University, 2022 - 2026</p>
 
 ###
 
@@ -65,7 +73,7 @@
 
 ###
 
-<p align="left">1. Python Training Project, from IIT Bombay.<br>2. Java Certification form DataFlair.</p>
+<p align="left">1. -Python Training Project, from IIT Bombay.<br>2. Java Certification form DataFlair.</p>
 
 ###
 
@@ -73,7 +81,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/kartikpawar876?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEYoDleagRFGIERaCuH%2BQSw%3D%3D" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
