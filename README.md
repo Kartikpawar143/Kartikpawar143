@@ -1,4 +1,4 @@
-<br clear="both">
+ <br clear="both">
 
 <h1 align="left">Hi 👋! My self Kartik Pawar and I'm a cloud engineer, from pune.</h1>
 
@@ -52,7 +52,7 @@
 ###
 
 <h2 align="left">Projects</h2>
-Here are a few noteworthy projects I have worked on:<br/>
+Here are a few noteworthy projects I have worked on:<br>
 
 1. **[AWS VPC Peering and EC2 Instance Connectivity](https://github.com/Kartikpawar143/AWS-VPC-Peering-and-EC2-instance-connectivity..git)**
    - Established secure VPC peering connection between two AWS VPCs, enabling seamless communication between EC2 instances. Showcased expertise in AWS networking and Linux command-line tools.
