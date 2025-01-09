@@ -80,9 +80,6 @@
 <h2 align="left">Connect with me</h2>
 
 ###
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kartikpawar876?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEYoDleagRFGIERaCuH%2BQSw%3D%3D" target="_blank">
