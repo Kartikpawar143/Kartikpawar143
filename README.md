@@ -59,6 +59,9 @@
 
 2. **[Static Website Hosting Using AWS S3](https://github.com/Kartikpawar143/AWS-S3)**
    - Deployed and managed static websites on AWS cloud using AWS CLI, optimizing efficiency and scalability of website deployment.
+  
+3. **[React App With Amplify, Cognito and CI-CD](https://github.com/Kartikpawar143/Building-a-React-App-with-Amplify-Gen-1-Cognito-and-CI-CD.git)**
+   -  Building a simple React app (a quiz app) using AWS Amplify Gen 1 and Cognito. Also set up continuous integration and continuous deployment (CI/CD) using GitHub.
 
 ###
 
