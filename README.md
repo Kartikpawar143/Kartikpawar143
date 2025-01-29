@@ -45,7 +45,7 @@
 
 <h2 align="left">Projects</h2>
 
-1. **[AWS VPC Peering and EC2 Instance Connectivity](https://github.com/Kartikpawar143/AWS-VPC-Peering-and-EC2-instance-connectivity..git)** <br>
+1. **[AWS VPC Peering and EC2 Instance Connectivity](https://github.com/Kartikpawar143/AWS-VPC-Peering-and-EC2-instance-connectivity..git)** <br><br>
    → Established secure VPC peering connection between two AWS VPCs, enabling seamless communication between EC2 instances. Showcased expertise in AWS networking and Linux command-line tools.
 
 2. **[Static Website Hosting Using AWS S3](https://github.com/Kartikpawar143/AWS-S3)**
