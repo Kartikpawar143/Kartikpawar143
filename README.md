@@ -54,6 +54,9 @@
 3. **[React App With Amplify, Cognito and CI-CD](https://github.com/Kartikpawar143/Building-a-React-App-with-Amplify-Gen-1-Cognito-and-CI-CD.git)**
    -  Building a simple React app (a quiz app) using AWS Amplify Gen 1 and Cognito. Also set up continuous integration and continuous deployment (CI/CD) using GitHub.
 
+4. **[Bus Ticketing and Payment System Using AWS](https://github.com/Kartikpawar143/Bus-Ticketing-and-payment-System-Using-AWS.git)**
+   -  Passengers can buy bus or railway tickets on our platform. We are using AWS EC2 service for that.
+
 ###
 
 <h2 align="left">Education</h2>
