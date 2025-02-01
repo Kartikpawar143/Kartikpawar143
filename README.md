@@ -1,10 +1,10 @@
  <br clear="both">
 
-<h1 align="left">Hi 👋! My self Kartik Pawar and I'm a cloud engineer, from pune.</h1>
+<h1 align="left">Hi 👋! My self Kartik Pawar and I'm a Cloud Engineer, from Pune.</h1>
 
 ###
 
-<p align="center">Highly motivated cloud engineer with a strong background in cloud computing, DevOps,  AWS, and Programming. I am passionate about leveraging cutting-edge technologies to build scalable and secure cloud infrastructure. Welcome to my GitHub profile!</p>
+<p align="center">Highly motivated Cloud & DevOps Engineer with a strong background in cloud computing, DevOps, AWS, and Programming. I am passionate about leveraging cutting-edge technologies to build scalable and secure cloud infrastructure. Welcome to my GitHub profile!</p>
 
 
 <div align="center">
@@ -46,10 +46,10 @@
 <h2 align="left">Projects</h2>
 
 1. **[AWS VPC Peering and EC2 Instance Connectivity](https://github.com/Kartikpawar143/AWS-VPC-Peering-and-EC2-instance-connectivity..git)** <br>
-   → Established secure VPC peering connection between two AWS VPCs, enabling seamless communication between EC2 instances. Showcased expertise in AWS networking and Linux command-line tools.
+   →  Established secure VPC peering connection between two AWS VPCs, enabling seamless communication between EC2 instances. Showcased expertise in AWS networking and Linux command-line tools.
 
 2. **[Static Website Hosting Using AWS S3](https://github.com/Kartikpawar143/AWS-S3)**<br>
-   → Deployed and managed static websites on AWS cloud using AWS CLI, optimizing efficiency and scalability of website deployment.
+   →  Deployed and managed static websites on AWS cloud using AWS CLI, optimizing efficiency and scalability of website deployment.
   
 3. **[React App With Amplify, Cognito and CI-CD](https://github.com/Kartikpawar143/Building-a-React-App-with-Amplify-Gen-1-Cognito-and-CI-CD.git)**<br>
    →  Building a simple React app (a quiz app) using AWS Amplify Gen 1 and Cognito. Also set up continuous integration and continuous deployment (CI/CD) using GitHub.
