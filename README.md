@@ -63,7 +63,7 @@
 
 ###
 
-<p align="left"> → Bachelor of Engineering, Savitribai Phule Pune University, 2022 - 2026</p>
+<p align="left"> → Bachelor of Engineering (Information Technology), Savitribai Phule Pune University, 2022 - 2026</p>
 
 ###
 
