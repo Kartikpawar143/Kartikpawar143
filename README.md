@@ -57,6 +57,9 @@
 4. **[Bus Ticketing and Payment System Using AWS](https://github.com/Kartikpawar143/Bus-Ticketing-and-payment-System-Using-AWS.git)**<br>
    →  Passengers can buy bus or railway tickets on our platform. We are using AWS EC2 service for that.
 
+5. **[Auto Scaling](https://github.com/Kartikpawar143/Auto-Scaling.git)**<br>
+   →  service that allows for automatic adjustment of AWS resources based on demand, ensuring steady performance at the lowest cost.
+
 ###
 
 <h2 align="left">Education</h2>
