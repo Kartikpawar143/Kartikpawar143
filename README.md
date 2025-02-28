@@ -45,7 +45,7 @@
 <center>
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Kartikpawar143/All-DevOps-Projects"><img src="https://github.com/user-attachments/assets/2fb30989-8830-485a-8d43-2f8c4792db0a
+    <td align="center"><a href="https://github.com/Kartikpawar143/All-DevOps-Projects"><img src="![Image](https://github.com/user-attachments/assets/a9696136-893c-4298-89bb-7863cd5ff22e)
 " width="75px;" height="75px;" alt="DevOps" /><br /><b>DevOps</b></a></td>
     <td align="center"><a href="topics/kubernetes/README.md"><img src="images/kubernetes.png" width="75px;" height="75px;" alt="kubernetes"/><br /><b>AWS</b></a></td>
     <td align="center"><a href="topics/git/README.md"><img src="images/git.png" width="75px;" height="75px;" alt="Git"/><br /><b>Git</b></a></td>
