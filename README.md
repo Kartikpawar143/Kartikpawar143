@@ -45,7 +45,14 @@
 <center>
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Kartikpawar143/All-DevOps-Projects"><img src="![Image](https://github.com/user-attachments/assets/a9696136-893c-4298-89bb-7863cd5ff22e)" width="75px;" height="75px;" alt="DevOps" /><br /><b>DevOps</b></a></td>
+    <td align="center">
+  <a href="https://github.com/Kartikpawar143/All-DevOps-Projects">
+    <img src="https://www.freepik.com/free-vector/infinite-sign-arrow-gradient-style_181122040.htm#fromView=keyword&page=1&position=3&uuid=24fa28f8-0107-46d8-9063-cf0c78cda67e&query=Devops+Logo" width="75px" height="75px" alt="DevOps" />
+    <br />
+    <b>DevOps</b>
+  </a>
+    </td>
+</td>
     <td align="center"><a href="topics/kubernetes/README.md"><img src="images/kubernetes.png" width="75px;" height="75px;" alt="kubernetes"/><br /><b>AWS</b></a></td>
     <td align="center"><a href="topics/git/README.md"><img src="images/git.png" width="75px;" height="75px;" alt="Git"/><br /><b>Git</b></a></td>
     <td align="center"><a href="topics/linux/README.md"><img src="images/logos/linux.png" width="75px;" height="75px;" alt="Linux"/><br /><b>Linux</b></a></td>
