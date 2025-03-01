@@ -54,8 +54,8 @@
   </tr>
 
   <tr>
-      <td align="center"><a href="topics/linux/README.md"><img src="images/logos/linux.png" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
-      <td align="center"><a href="#virtualization"><img src="images/virtualization.png" width="75px;" height="75px;" alt="Grafana"/><br /><b>Grafana</b></a></td>
+      <td align="center"><a href="topics/linux/README.md"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
+      <td align="center"><a href="#virtualization"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="75px;" height="75px;" alt="Grafana"/><br /><b>Grafana</b></a></td>
       <td align="center"><a href="topics/dns/README.md"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="75px;" height="75px;" alt="Linux"/><br /><b>Linux</b></a></td>
       <td align="center"><a href="topics/shell/README.md"><img src="https://github.com/Kartikpawar143/Images/blob/main/bash.png" width="75px;" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>
       <td align="center"><a href="#certificates"><img src="https://github.com/Kartikpawar143/Images/blob/main/certificates.png" width="75px;" height="75px;" alt="Certificates"/><br /><b>Certificates</b></a></td>
