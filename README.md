@@ -56,16 +56,17 @@
   <tr>
       <td align="center"><a href="topics/linux/README.md"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
       <td align="center"><a href="#virtualization"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="75px;" height="75px;" alt="Grafana"/><br /><b>Grafana</b></a></td>
+      <td align="center"><a href="#certificates"><img src="images/certificates.png" width="75px;" height="75px;" alt="Teraform"/><br /><b>Teraform</b></a></td>
       <td align="center"><a href="topics/dns/README.md"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="75px;" height="75px;" alt="Linux"/><br /><b>Linux</b></a></td>
       <td align="center"><a href="topics/shell/README.md"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="75px;" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>
-      <td align="center"><a href="#certificates"><img src="https://github.com/Kartikpawar143/Images/blob/main/certificates.png" width="75px;" height="75px;" alt="Certificates"/><br /><b>Certificates</b></a></td>
-
   </tr>
 
   <tr>      
       <td align="center"><a href="topics/linux/README.md"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75px;" height="75px;" alt="Java"/><br /><b>Java</b></a></td>
       <td align="center"><a href="#certificates"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
       <td align="center"><a href="#certificates"><img src="images/certificates.png" width="75px;" height="75px;" alt="Front-end"/><br /><b>Fornt-end</b></a></td>
+      <td align="center"><a href="#certificates"><img src="https://github.com/Kartikpawar143/Images/blob/main/certificates.png" width="75px;" height="75px;" alt="Certificates"/><br /><b>Certificates</b></a></td>
+
 
   </tr>
 </table>
