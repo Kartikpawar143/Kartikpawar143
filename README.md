@@ -45,7 +45,7 @@
 <center>
 <table>
   <tr>
-    <td align="center"><a href="topics/devops/README.md"><img src="images/devops.png" width="75px;" height="75px;" alt="AWS" /><br /><b>AWS</b></a></td>
+    <td align="center"><a href="https://github.com/Kartikpawar143/Images/blob/main/aws.png"><img src="images/devops.png" width="75px;" height="75px;" alt="AWS" /><br /><b>AWS</b></a></td>
     <td align="center"><a href="topics/git/README.md"><img src="images/git.png" width="75px;" height="75px;" alt="Docker"/><br /><b>Docker</b></a></td>
     <td align="center"><a href="topics/kubernetes/README.md"><img src="images/kubernetes.png" width="75px;" height="75px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
     <td align="center"><a href="topics/linux/README.md"><img src="images/logos/linux.png" width="75px;" height="75px;" alt="Ansible"/><br /><b>Ansible</b></a></td>
