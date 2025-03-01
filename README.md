@@ -38,11 +38,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+</div><br>
 
 ###
 
-<h1> Projects </h1><br>
+<h1> Projects </h1>
 <div align="center">
 <center>
 <table>
