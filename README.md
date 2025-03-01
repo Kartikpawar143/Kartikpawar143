@@ -42,7 +42,11 @@
 
 ###
 
-<h1> Projects </h1>
+###
+
+<h2 align="left">Projects</h2>
+
+###
 <div align="center">
 <center>
 <table>
