@@ -48,36 +48,63 @@
 
 ###
 <div align="center">
-<center>
-<table>
-  <tr>
-    <td align="center"><a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="75px;" height="75px;" alt="AWS" /><br /><b>AWS</b></a></td>
-    <td align="center"><a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="75px;" height="75px;" alt="Docker"/><br /><b>Docker</b></a></td>
-    <td align="center"><a href="topics/kubernetes/README.md"><img src="https://cdn.simpleicons.org/jenkins/D24939" width="75px;" height="75px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
-    <td align="center"><a href="topics/linux/README.md"><img src="https://skillicons.dev/icons?i=ansible" width="75px;" height="75px;" alt="Ansible"/><br /><b>Ansible</b></a></td>
-    <td align="center"><a href="topics/linux/README.md"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="75px;" height="75px;" alt="Kubernetes"/><br /><b>Kubernetes</b></a></td>
+  <center>
+    <table>
+      <tr>
+        <td align="center">
+          <a href="" style="display: inline-block; transition: transform 0.3s ease, opacity 0.3s ease;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="75px;" height="75px;" alt="AWS" 
+            style="transition: transform 0.3s ease, opacity 0.3s ease;" 
+            onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='0.8';" 
+            onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';"/>
+            <br /><b>AWS</b>
+          </a>
+        </td>
 
-  </tr>
+  <td align="center">
+          <a href="" style="display: inline-block; transition: transform 0.3s ease, opacity 0.3s ease;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="75px;" height="75px;" alt="Docker"
+            style="transition: transform 0.3s ease, opacity 0.3s ease;" 
+            onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='0.8';" 
+            onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';"/>
+            <br /><b>Docker</b>
+          </a>
+        </td>
 
-  <tr>
-      <td align="center"><a href="topics/linux/README.md"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
-      <td align="center"><a href="#virtualization"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="75px;" height="75px;" alt="Grafana"/><br /><b>Grafana</b></a></td>
-      <td align="center"><a href="#certificates"><img src="https://github.com/Kartikpawar143/Images/blob/main/terraform.png" width="75px;" height="75px;" alt="Teraform"/><br /><b>Teraform</b></a></td>
-      <td align="center"><a href="topics/dns/README.md"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="75px;" height="75px;" alt="Linux"/><br /><b>Linux</b></a></td>
-      <td align="center"><a href="topics/shell/README.md"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="75px;" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>
-  </tr>
+   <td align="center">
+          <a href="topics/kubernetes/README.md" style="display: inline-block; transition: transform 0.3s ease, opacity 0.3s ease;">
+            <img src="https://cdn.simpleicons.org/jenkins/D24939" width="75px;" height="75px;" alt="Jenkins"
+            style="transition: transform 0.3s ease, opacity 0.3s ease;" 
+            onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='0.8';" 
+            onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';"/>
+            <br /><b>Jenkins</b>
+          </a>
+        </td>
 
-  <tr>      
-      <td align="center"><a href="topics/linux/README.md"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75px;" height="75px;" alt="Java"/><br /><b>Java</b></a></td>
-      <td align="center"><a href="#certificates"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
-      <td align="center"><a href="#certificates"><img src="https://github.com/Kartikpawar143/Images/blob/main/pngwing.com.png" width="75px;" height="75px;" alt="Front-end"/><br /><b>Fornt-end</b></a></td>
-      <td align="center"><a href="#certificates"><img src="https://github.com/Kartikpawar143/Images/blob/main/certificates.png" width="75px;" height="75px;" alt="Certificates"/><br /><b>Certificates</b></a></td>
+   <td align="center">
+          <a href="topics/linux/README.md" style="display: inline-block; transition: transform 0.3s ease, opacity 0.3s ease;">
+            <img src="https://skillicons.dev/icons?i=ansible" width="75px;" height="75px;" alt="Ansible"
+            style="transition: transform 0.3s ease, opacity 0.3s ease;" 
+            onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='0.8';" 
+            onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';"/>
+            <br /><b>Ansible</b>
+          </a>
+        </td>
 
-
-  </tr>
-</table>
-</center>
+   <td align="center">
+          <a href="topics/linux/README.md" style="display: inline-block; transition: transform 0.3s ease, opacity 0.3s ease;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="75px;" height="75px;" alt="Kubernetes"
+            style="transition: transform 0.3s ease, opacity 0.3s ease;" 
+            onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='0.8';" 
+            onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';"/>
+            <br /><b>Kubernetes</b>
+          </a>
+        </td>
+      </tr>
+    </table>
+  </center>
 </div>
+
 
 ###
 
