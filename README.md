@@ -50,7 +50,7 @@
 <div align="center">
 <center>
 <table style="border: 2px solid #4CAF50; padding: 10px;">
-  <tr>
+  <tr style="border: 2px solid #4CAF50; padding: 10px;">
     <td align="center"><a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="75px;" height="75px;" alt="AWS" /><br /><b>AWS</b></a></td>
     <td align="center"><a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="75px;" height="75px;" alt="Docker"/><br /><b>Docker</b></a></td>
     <td align="center"><a href="topics/kubernetes/README.md"><img src="https://cdn.simpleicons.org/jenkins/D24939" width="75px;" height="75px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
