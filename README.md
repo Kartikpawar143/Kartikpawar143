@@ -39,7 +39,7 @@
       <td align="center"><a href="https://github.com/Kartikpawar143/Java-Codes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75px;" height="75px;" alt="Java"/><br /><b>Java</b></a></td>
       <td align="center"><a href="#certificates"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
       <td align="center"><a href="#certificates"><img src="https://github.com/Kartikpawar143/Images/blob/main/pngwing.com.png" width="75px;" height="75px;" alt="Front-end"/><br /><b>Fornt-end</b></a></td>
-      <td align="center"><a href="#certificates"><img src="https://github.com/Kartikpawar143/Images/blob/main/certificates.png" width="75px;" height="75px;" alt="Certificates"/><br /><b>Certificates</b></a></td>
+      <td align="center"><a href="https://github.com/Kartikpawar143/Certificates"><img src="https://github.com/Kartikpawar143/Images/blob/main/certificates.png" width="75px;" height="75px;" alt="Certificates"/><br /><b>Certificates</b></a></td>
 
 
   </tr>
