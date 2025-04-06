@@ -40,7 +40,7 @@
       <td align="center"><a href="#certificates"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75px;" height="75px;" alt="JavaScript"/><br /><b>JavaScript</b></a></td>
       <td align="center"><a href="#certificates"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="75px;" height="75px;" alt="ReactJs"/><br /><b>ReactJs</b></a></td>
       <td align="center"><a href="https://github.com/Kartikpawar143/Coding-Related/tree/main/Frontend%20Projects/HTML%20AND%20CSS"><img src="https://github.com/Kartikpawar143/Images/blob/main/pngwing.com.png" width="75px;" height="75px;" alt="Front-end"/><br /><b>Fornt-end</b></a></td>
-      <td align="center"><a href="https://github.com/Kartikpawar143/Certificates"><img src="https://as2.ftcdn.net/v2/jpg/11/25/26/09/1000_F_1125260971_Iaxo7SAURCIVFLVzHjlAMHyJH02baUfD.jpg" width="75px;" height="75px;" alt="Certificates"/><br /><b>Certificates</b></a></td>
+      <td align="center"><a href="https://github.com/Kartikpawar143/Certificates"><img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-5b70-5230-8eae-c4f2f1600d27/raw?se=2025-04-06T04%3A12%3A29Z&sp=r&sv=2024-08-04&sr=b&scid=1f45fc98-3c77-5700-80e9-aad2edb43854&skoid=e4438ed3-2a6f-4fd3-bf63-222012dc627c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-05T19%3A05%3A15Z&ske=2025-04-06T19%3A05%3A15Z&sks=b&skv=2024-08-04&sig=Y0N0KTj0RcYYxOavWiUphuOPg0IFI2MP2fNXhVOuq70%3D" width="75px;" height="75px;" alt="Certificates"/><br /><b>Certificates</b></a></td>
 
 
   </tr>
