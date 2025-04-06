@@ -40,7 +40,7 @@
       <td align="center"><a href="#certificates"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75px;" height="75px;" alt="JavaScript"/><br /><b>JavaScript</b></a></td>
       <td align="center"><a href="#certificates"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="75px;" height="75px;" alt="ReactJs"/><br /><b>ReactJs</b></a></td>
       <td align="center"><a href="https://github.com/Kartikpawar143/Coding-Related/tree/main/Frontend%20Projects/HTML%20AND%20CSS"><img src="https://github.com/Kartikpawar143/Images/blob/main/pngwing.com.png" width="75px;" height="75px;" alt="Front-end"/><br /><b>Fornt-end</b></a></td>
-      <td align="center"><a href="https://github.com/Kartikpawar143/Certificates"><img src="https://stock.adobe.com/in/images/approved-document-icon-flat-art-in-black-and-white-isolated/1125260971" width="75px;" height="75px;" alt="Certificates"/><br /><b>Certificates</b></a></td>
+      <td align="center"><a href="https://github.com/Kartikpawar143/Certificates"><img src="https://as2.ftcdn.net/v2/jpg/11/25/26/09/1000_F_1125260971_Iaxo7SAURCIVFLVzHjlAMHyJH02baUfD.jpg" width="75px;" height="75px;" alt="Certificates"/><br /><b>Certificates</b></a></td>
 
 
   </tr>
