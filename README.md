@@ -79,6 +79,9 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/Kartikpawar143/Kartikpawar143/output/snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <img height="200" src="https://github.com/Kartikpawar143/Kartikpawar143/blob/main/ChatGPT%20Image%20Apr%2016%2C%202025%2C%2005_17_36%20PM.png"  />
+</div>
 
 ###
