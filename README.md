@@ -50,6 +50,11 @@
 
 
 
+
+###
+
+<img src="https://raw.githubusercontent.com/Kartikpawar143/Kartikpawar143/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <h2 align="left">Education</h2>
@@ -67,6 +72,7 @@
 <p align="left">1. Python Training Project, from IIT Bombay.<br>2. Java Certification form DataFlair.</p>
 
 ###
+
 
 <h2 align="left">Connect with me</h2>
 
