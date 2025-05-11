@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">Projects</h2>
+<h2 align="left">PROJECTS</h2>
 
 ###
 <div align="center">
@@ -57,7 +57,7 @@
 
 ###
 
-<h2 align="left">Education</h2>
+<h2 align="left">EDUCATION</h2>
 
 ###
 
@@ -65,7 +65,7 @@
 
 ###
 
-<h2 align="left">Certification</h2>
+<h2 align="left">CERTIFICATION</h2>
 
 ###
 
@@ -74,7 +74,7 @@
 ###
 
 
-<h2 align="left">Connect with me</h2>
+<h2 align="left">CONTACT WITH ME</h2>
 
 ###
 
