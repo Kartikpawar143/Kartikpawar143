@@ -15,6 +15,7 @@
 <h2 align="left">PROJECTS</h2>
 
 ###
+<img src="https://github.com/Kartikpawar143/Kartikpawar143/blob/main/coding.gif" width="75px;" height="75px;" alt="AWS" /><br /></a>
 <div align="center">
 <center>
 <table>
