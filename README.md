@@ -31,7 +31,7 @@
   <tr>
       <td align="center"><a href="https://github.com/Kartikpawar143/All-Prometheus-Projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
       <td align="center"><a href="https://github.com/Kartikpawar143/All-Grafana-Projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="75px;" height="75px;" alt="Grafana"/><br /><b>Grafana</b></a></td>
-      <td align="center"><a href="https://github.com/Kartikpawar143/All-Teraform-Projects"><img src="https://github.com/Kartikpawar143/Kartikpawar143/blob/main/terraform-svgrepo-com.svg" width="75px;" height="75px;" alt="Teraform"/><br /><b>Teraform</b></a></td>
+      <td align="center"><a href="https://github.com/Kartikpawar143/All-Teraform-Projects"><img src="images/terraform.png" width="75px;" height="75px;" alt="Teraform"/><br /><b>Teraform</b></a></td>
       <td align="center"><a href="https://github.com/Kartikpawar143/Linux-"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="75px;" height="75px;" alt="Linux"/><br /><b>Linux</b></a></td>
       <td align="center"><a href="https://github.com/Kartikpawar143/Linux-Shell-Scripting"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="75px;" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>
   </tr>
