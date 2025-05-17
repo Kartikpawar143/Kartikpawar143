@@ -70,7 +70,7 @@
 
 ###
 
-<p align="left">1. Python Training Project, from IIT Bombay.<br>2. Java Certification form DataFlair.</p>
+<p align="left">1. In progress: AWS Certified Cloud Practitioner <br> 2. Python Training Project, from IIT Bombay. <br> 3. Java Certification form DataFlair.</p>
 
 ###
 
