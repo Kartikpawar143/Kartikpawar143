@@ -1,8 +1,17 @@
-<h1 align="left">Hi 👋, I'm Kartik Pawar — Cloud & DevOps Engineer from Pune.</h1>
+<!-- Profile Views -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Kartikpawar143&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<h1 align="left">Hi 👋, I'm <span style="color:#FFA500;">Kartik Pawar</span> — Cloud & DevOps Engineer from Pune</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+K8s+%7C+Terraform;Automating+Infrastructure+%7C+Scaling+Clouds+🚀" alt="Typing SVG" />
+</p>
 
 <p align="center">
   🚀 Highly motivated Cloud and DevOps Engineer with a solid foundation in AWS, infrastructure automation, and programming. <br>
-  I am passionate about designing scalable, secure cloud architectures and implementing efficient DevOps pipelines. <br>
+  Passionate about scalable architectures and efficient CI/CD pipelines. <br>
   Welcome to my GitHub profile!
 </p>
 
@@ -111,10 +120,23 @@
   🕐 In Progress – AWS Certified Cloud Practitioner
 </p>
 
+<h2 align="left">🧰 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,kubernetes,ansible,terraform,prometheus,grafana,linux,bash,java,javascript,react,html,css" />
+</p>
+
+<h2 align="left">📈 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartikpawar143&show_icons=true&theme=github_dark" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kartikpawar143&theme=github-dark&hide_border=true" width="47%" />
+</div>
+
 <h2 align="left">📫 Connect with Me</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kartikpawar876" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
 </div>
