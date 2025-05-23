@@ -6,7 +6,7 @@
 <h1 align="left">Hi 👋, I'm <span style="color:#FFA500;">Kartik Pawar</span> — Cloud & DevOps Engineer from Pune</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF10F0&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+K8s+%7C+Terraform;Automating+Infrastructure+%7C+Scaling+Clouds+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF10F0&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+K8s+%7C+Terraform;Web+developement+%7C+Coding+🚀" alt="Typing SVG" />
 </p>
 
 
