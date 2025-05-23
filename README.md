@@ -128,10 +128,15 @@
 
 <h2 align="left">📈 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartikpawar143&show_icons=true&theme=github_dark" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kartikpawar143&theme=github-dark&hide_border=true" width="47%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartikpawar143&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="47%" alt="Kartik's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kartikpawar143&theme=github-dark&hide_border=true" width="47%" alt="Kartik's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikpawar143&theme=github-dark&hide_border=true&area=true&custom_title=Kartik%27s%20Contribution%20Graph" width="100%" alt="GitHub Contribution Graph" />
+</p>
+
 
 <h2 align="left">📫 Connect with Me</h2>
 
