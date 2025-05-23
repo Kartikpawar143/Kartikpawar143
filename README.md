@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Kartik Pawar — Cloud & DevOps Engineer from Pune, India.</h1>
+<h1 align="left">Hi 👋, I'm Kartik Pawar — Cloud & DevOps Engineer from Pune.</h1>
 
 <p align="center">
   🚀 Highly motivated Cloud and DevOps Engineer with a solid foundation in AWS, infrastructure automation, and programming. <br>
