@@ -1,8 +1,3 @@
-<!-- Profile Views -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Kartikpawar143&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 <h1 align="left">Hi 👋, I'm <span style="color:#FFA500;">Kartik Pawar</span> — Cloud & DevOps Engineer from Pune</h1>
 
 <p align="center">
