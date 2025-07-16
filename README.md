@@ -21,8 +21,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Kartikpawar143/Coding-Related/tree/main/Frontend%20Projects/HTML%20AND%20CSS">
-          <img src="images/pngwing.com.png" width="75px" height="75px" alt="Frontend"/><br><b>DevOps</b>
+        <a href="https://github.com/Kartikpawar143/All-DevOps-Projects">
+          <img src="https://github.com/Kartikpawar143/Kartikpawar143/blob/main/devops1.png" width="75px" height="75px" alt="Devops"/><br><b>DevOps</b>
         </a>
       </td>
       <td align="center">
