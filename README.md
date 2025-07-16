@@ -1,17 +1,16 @@
-<h1 align="left">Hi 👋, I'm <span style="color:#FFA500;">Kartik Pawar</span> — Cloud & DevOps Engineer from Pune</h1>
+<h1 align="left">Hi 👋, I'm <strong>Kartik Pawar</strong> — Cloud & DevOps Engineer from Pune</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF10F0&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+K8s+%7C+Terraform;Web+developement+%7C+Coding+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF10F0&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+K8s+%7C+Terraform;Web+Development+%7C+Coding+🚀" alt="Typing SVG" />
 </p>
-
 
 <p align="center">
-  🚀 Highly motivated Cloud and DevOps Engineer with a solid foundation in AWS, infrastructure automation, and programming. <br>
-  Passionate about scalable architectures and efficient CI/CD pipelines. <br>
-  Welcome to my GitHub profile!
+  🚀 Passionate Cloud & DevOps Engineer skilled in AWS, Infrastructure as Code, and automation. <br>
+  ⚙️ Building scalable systems and robust CI/CD pipelines to streamline development. <br>
+  🎯 Always learning and sharing — welcome to my GitHub!
 </p>
 
-<h2 align="left">🌟 Projects</h2>
+## 🌟 Projects
 
 <div align="center">
   <table>
@@ -19,6 +18,11 @@
       <td align="center">
         <a href="https://github.com/Kartikpawar143/All-AWS-Projects">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="75px" height="75px" alt="AWS" /><br><b>AWS</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Kartikpawar143/Coding-Related/tree/main/Frontend%20Projects/HTML%20AND%20CSS">
+          <img src="images/pngwing.com.png" width="75px" height="75px" alt="Frontend"/><br><b>DevOps</b>
         </a>
       </td>
       <td align="center">
@@ -36,13 +40,13 @@
           <img src="https://skillicons.dev/icons?i=ansible" width="75px" height="75px" alt="Ansible"/><br><b>Ansible</b>
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://github.com/Kartikpawar143/All-Kubernetes-Projects">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="75px" height="75px" alt="Kubernetes"/><br><b>Kubernetes</b>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://github.com/Kartikpawar143/All-Prometheus-Projects">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="75px" height="75px" alt="Prometheus"/><br><b>Prometheus</b>
@@ -63,13 +67,13 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="75px" height="75px" alt="Linux"/><br><b>Linux</b>
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://github.com/Kartikpawar143/Linux-Shell-Scripting">
           <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="75px" height="75px" alt="Shell"/><br><b>Shell Scripting</b>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://github.com/Kartikpawar143/Coding-Related/tree/main/Core%20Java%20codes">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75px" height="75px" alt="Java"/><br><b>Java</b>
@@ -86,11 +90,6 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Kartikpawar143/Coding-Related/tree/main/Frontend%20Projects/HTML%20AND%20CSS">
-          <img src="images/pngwing.com.png" width="75px" height="75px" alt="Frontend"/><br><b>Frontend</b>
-        </a>
-      </td>
-      <td align="center">
         <a href="https://github.com/Kartikpawar143/Certificates">
           <img src="images/chat.png" width="75px" height="75px" alt="Certificates"/><br><b>Certificates</b>
         </a>
@@ -101,28 +100,24 @@
 
 <img src="https://raw.githubusercontent.com/Kartikpawar143/Kartikpawar143/output/snake.svg" alt="Snake animation" />
 
-<h2 align="left">🎓 Education</h2>
+## 🎓 Education
 
-<p align="left">
-  🎓 Bachelor of Engineering in Information Technology<br>
-  🏫 Savitribai Phule Pune University (2022 – 2026)
-</p>
+- 🎓 **Bachelor of Engineering in Information Technology**  
+- 🏫 **Savitribai Phule Pune University** (2022 – 2026)
 
-<h2 align="left">📜 Certifications</h2>
+## 📜 Certifications
 
-<p align="left">
-  ✅ Python Training Project – IIT Bombay <br>
-  ✅ Java Certification – DataFlair <br>
-  🕐 In Progress – AWS Certified Cloud Practitioner
-</p>
+- ✅ Python Training Project – **IIT Bombay**
+- ✅ Java Certification – **DataFlair**
+- 🕐 In Progress – **AWS Certified Cloud Practitioner**
 
-<h2 align="left">🧰 Tech Stack</h2>
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,kubernetes,ansible,terraform,prometheus,grafana,linux,bash,java,javascript,react,html,css" />
 </p>
 
-<h2 align="left">📈 GitHub Stats</h2>
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kartikpawar143&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="47%" alt="Kartik's GitHub Stats" />
@@ -133,8 +128,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikpawar143&theme=github-dark&hide_border=true&area=true&custom_title=Kartik%27s%20Contribution%20Graph" width="100%" alt="GitHub Contribution Graph" />
 </p>
 
-
-<h2 align="left">📫 Connect with Me</h2>
+## 📫 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kartikpawar876" target="_blank">
