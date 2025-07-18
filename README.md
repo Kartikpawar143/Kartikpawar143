@@ -22,7 +22,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/Kartikpawar143/All-DevOps-Projects">
-          <img src="https://github.com/Kartikpawar143/Kartikpawar143/blob/main/devops1.png" width="75px" height="75px" alt="Devops"/><br><b>DevOps</b>
+          <img src="https://github.com/Kartikpawar143/Kartikpawar143/blob/main/ChatGPT%20Image%20Jul%2018%2C%202025%2C%2011_53_53%20PM.png" width="75px" height="75px" alt="Devops"/><br><b>DevOps</b>
         </a>
       </td>
       <td align="center">
