@@ -107,8 +107,11 @@
 
 ## 📜 Certifications
 
-- ✅ Python Training Project – **IIT Bombay**
-- ✅ Java Certification – **DataFlair**
+- ✅ Introduction to Linx – **Linux Foundation**
+- ✅ Introduction to GitOps – **Linux Foundation**
+- ✅ Opentofu Certified – **Linux Foundation**
+- ✅ OCI Certified DevOps Professional – **Oracle**
+- ✅ Oracle Certified Foundation Associate - **Oracle**
 - 🕐 In Progress – **AWS Certified Cloud Practitioner**
 
 ## 🧰 Tech Stack
