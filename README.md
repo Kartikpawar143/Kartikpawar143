@@ -134,11 +134,6 @@
   <img src="https://skillicons.dev/icons?i=aws,azure,redhat,docker,ubuntu,jenkins,kubernetes,ansible,terraform,prometheus,grafana,linux,bash,mysql" alt="Tech Stack" />
 </p>
 
-**AWS:** EC2, ECS/Fargate, ECR, IAM, VPC, CloudWatch, Secrets Manager <br />
-**DevOps:** GitHub Actions, Jenkins, Docker, Kubernetes, Terraform, Ansible, Trivy <br />
-**Monitoring:** Prometheus, Grafana, Loki, Promtail, Node Exporter, Nagios, CloudWatch <br />
-**Linux:** Linux, RHEL, Ubuntu, Bash, Shell Scripting <br />
-**Programming/Web:** Java, JavaScript, React, HTML, CSS, MySQL
 
 ## 🎓 Education
 
